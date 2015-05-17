@@ -1,0 +1,5 @@
+C:\Users\Robert\documents\visual studio 2013\Projects\telnet-script\telnet-script\bin\Release\telnet-script.exe.config
+C:\Users\Robert\documents\visual studio 2013\Projects\telnet-script\telnet-script\bin\Release\telnet-script.exe
+C:\Users\Robert\documents\visual studio 2013\Projects\telnet-script\telnet-script\bin\Release\telnet-script.pdb
+C:\Users\Robert\documents\visual studio 2013\Projects\telnet-script\telnet-script\obj\Release\telnet-script.exe
+C:\Users\Robert\documents\visual studio 2013\Projects\telnet-script\telnet-script\obj\Release\telnet-script.pdb

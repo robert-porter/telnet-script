@@ -1,0 +1,23 @@
+MC3 Console
+
+MC3>Current Directory = \
+
+MC3>***DISCONNECTED
+MC3 Console
+
+MC3>
+Current Directory = \
+
+MC3>***DISCONNECTED
+MC3 Console
+
+MC3>Current Directory = \
+
+MC3>***DISCONNECTED
+MC3 Console
+
+MC3>Bad or Incomplete Command (pwd)
+
+MC3>Bad or Incomplete Command (pwd)
+
+MC3>***DISCONNECTED
